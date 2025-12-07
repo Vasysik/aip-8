@@ -5,4 +5,4 @@ def mega_a(t):
 
 print(mega_a('kruto'))
 
-print('mega kruto dumayte')
+print('mega kruto dumayte '*2)
